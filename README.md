@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Shaheer Khan
 
-<!--
-**MuhammadShaheerK/MuhammadShaheerK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Middle East Technical University (METU), focused on Machine Learning and Computer Vision.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Machine Learning Intern @ SEHSOFT — developing machine learning models for transformer fault diagnosis using Dissolved Gas Analysis (DGA).
+
+## Previously
+
+🔹 Computer Vision Intern @ Aremak — trained YOLOv8 models for real-time people detection (0.91 mAP, 35+ FPS).
+
+## Currently Learning
+- PyTorch
+- Docker
+- Linux
+- SQL
+
+  
+## Projects
+
+- Transformer Fault Diagnosis *(coming soon)*
+- YOLOv8 People Detection *(coming soon)*
+- [Task Manager CLI](https://github.com/MuhammadShaheerK/task-manager-cli) — Command-line task manager with CRUD operations.
+
+## Connect with me
+
+📧 shaheer12k9@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/muhammadshaheer-khan/
