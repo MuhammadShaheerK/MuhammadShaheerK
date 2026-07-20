@@ -16,12 +16,12 @@ Computer Engineering student at Middle East Technical University (METU), focused
 - Linux
 - SQL
 
-  
 ## Projects
 
-- Transformer Fault Diagnosis *(coming soon)*
-- YOLOv8 People Detection *(coming soon)*
+- **Transformer Fault Diagnosis** — ML pipeline for transformer fault classification using DGA data (Decision Trees, Random Forest, SVM, XGBoost). *Internal company project — code not publicly available.*
+- **YOLOv8 People Detection** — Real-time people detection model, 0.91 mAP @ 35+ FPS, deployed via OpenVINO/TensorRT. *Internal company project — code not publicly available.*
 - [Task Manager CLI](https://github.com/MuhammadShaheerK/task-manager-cli) — Command-line task manager with CRUD operations.
+
 
 ## Connect with me
 
