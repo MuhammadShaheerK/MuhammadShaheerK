@@ -4,13 +4,14 @@ Computer Engineering student at Middle East Technical University (METU), focused
 
 ## Currently
 
-🔹 Machine Learning Intern @ SEHSOFT — developing machine learning models for transformer fault diagnosis using Dissolved Gas Analysis (DGA).
+🔹 Machine Learning Intern @ SEHSOFT — developing ML models for transformer fault diagnosis using Dissolved Gas Analysis (DGA), improving XGBoost classification accuracy from 81.5% to 90.4% through feature engineering.
 
 ## Previously
 
 🔹 Computer Vision Intern @ Aremak — trained YOLOv8 models for real-time people detection (0.91 mAP, 35+ FPS).
 
 ## Currently Learning
+
 - PyTorch
 - Docker
 - Linux
@@ -18,10 +19,9 @@ Computer Engineering student at Middle East Technical University (METU), focused
 
 ## Projects
 
-- **Transformer Fault Diagnosis** — ML pipeline for transformer fault classification using DGA data (Decision Trees, Random Forest, SVM, XGBoost). *Internal company project — code not publicly available.*
+- **Transformer Fault Diagnosis** — ML pipeline for transformer fault classification using DGA data (Random Forest, XGBoost, feature engineering, SMOTE/CTGAN/TVAE augmentation). *Internal company project — code not publicly available.*
 - **YOLOv8 People Detection** — Real-time people detection model, 0.91 mAP @ 35+ FPS, deployed via OpenVINO/TensorRT. *Internal company project — code not publicly available.*
 - [Task Manager CLI](https://github.com/MuhammadShaheerK/task-manager-cli) — Command-line task manager with CRUD operations.
-
 
 ## Connect with me
 
