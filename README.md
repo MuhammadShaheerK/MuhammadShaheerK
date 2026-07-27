@@ -4,7 +4,7 @@ Computer Engineering student at Middle East Technical University (METU), focused
 
 ## Currently
 
-🔹 Machine Learning Intern @ SEHSOFT — developing ML models for transformer fault diagnosis using Dissolved Gas Analysis (DGA), improving XGBoost classification accuracy from 81.5% to 90.4% through feature engineering.
+🔹 Machine Learning Intern @ Optiway Solutions — developing ML models for transformer fault diagnosis using Dissolved Gas Analysis (DGA), improving XGBoost classification accuracy from 81.5% to 90.4% through feature engineering.
 
 ## Previously
 
