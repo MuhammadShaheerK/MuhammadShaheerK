@@ -4,6 +4,8 @@ Computer Engineering student in my final year at **Middle East Technical Univers
 
 I'm interested in building practical ML systems, from data preprocessing and model development to evaluation and deployment.
 
+📄 **[Download my CV](https://github.com/MuhammadShaheerK/MuhammadShaheerK/raw/refs/heads/main/Muhammad-Shaheer-Khan-CV.pdf)**
+
 ## 🎓 Currently
 
 🔹 **Final-Year Computer Engineering Student @ METU** — building practical skills in machine learning, computer vision, and software development while working on my senior design project.
