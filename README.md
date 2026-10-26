@@ -20,15 +20,17 @@ I'm interested in building practical ML systems, from data preprocessing and mod
 
 ## 🛠️ Projects
 
-- **Transformer Fault Diagnosis** — ML pipeline for classifying transformer faults using DGA data, with Random Forest, XGBoost, feature engineering, and synthetic data augmentation using SMOTE, CTGAN, and TVAE.  
+- **Transformer Fault Diagnosis** — ML pipeline for classifying transformer faults using DGA data, with Random Forest, XGBoost, feature engineering, and synthetic data augmentation using SMOTE, CTGAN, and TVAE.<br>
   *Internal company project — source code is not publicly available.*
 
-- **YOLOv8 People Detection** — real-time object detection using YOLOv8, with model optimization and deployment using OpenVINO and TensorRT.  
+- **YOLOv8 People Detection** — real-time object detection using YOLOv8, with model optimization and deployment using OpenVINO and TensorRT.<br>
   *Internal company project — source code is not publicly available.*
 
-- **[Task Manager CLI](https://github.com/MuhammadShaheerK/task-manager-cli)** — command-line task manager implementing CRUD operations.
+- **[Task Manager CLI + API](https://github.com/MuhammadShaheerK/task-manager-cli)** — Python task manager with a FastAPI interface, CSV persistence, and automated CLI/API tests.
 
-- **[Linear Regression from Scratch](https://github.com/MuhammadShaheerK/linear-regression-from-scratch)** — implementing linear regression from the ground up to strengthen my understanding of machine learning fundamentals.
+- **[Linear Regression from Scratch](https://github.com/MuhammadShaheerK/linear-regression-from-scratch)** — NumPy batch gradient descent with reproducible convergence experiments and a sklearn comparison.
+
+- **[Logistic Regression from Scratch](https://github.com/MuhammadShaheerK/cs229-logistic-regression-from-scratch)** — NumPy binary classification with training-only preprocessing, an intercept, and probability-based evaluation.
 
 ## 📖 Currently Learning
 
@@ -39,11 +41,11 @@ I'm interested in building practical ML systems, from data preprocessing and mod
 
 ## 💻 Tech Stack
 
-**Languages:** Python, C++, SQL  
-**Machine Learning & Computer Vision:** Scikit-learn, XGBoost, YOLOv8, OpenVINO, TensorRT  
-**Tools & Platforms:** Git, GitHub, Linux, Docker
+**Languages:** Python, C++, C<br>
+**Machine Learning & Computer Vision:** Scikit-learn, XGBoost, YOLOv8, OpenVINO, TensorRT<br>
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab, Linux (basic)
 
 ## 🤝 Connect with Me
 
-📧 **Email:** [shaheer12k9@gmail.com](mailto:shaheer12k9@gmail.com)  
+📧 **Email:** [shaheer12k9@gmail.com](mailto:shaheer12k9@gmail.com)<br>
 💼 **LinkedIn:** [Muhammad Shaheer Khan](https://www.linkedin.com/in/muhammadshaheer-khan/)
